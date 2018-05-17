@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pet Info</string>
+    <string name="spinner_label">Pet</string>
+    <string name="get_info">Get Pet Info!</string>
+    <string name="pet_info"> </string>
+    <string-array name="pet_names">
+        <item>Cleo</item>
+        <item>Ruthie</item>
+        <item>Skye</item>
+        <item>Spike</item>
+        <item>Ziggy</item>
+    </string-array>
+</resources>
